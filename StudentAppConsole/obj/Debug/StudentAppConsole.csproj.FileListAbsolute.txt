@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.exe
+c:\users\administrator\documents\visual studio 2015\Projects\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\StudentAppConsole\StudentAppConsole\obj\Debug\StudentAppConsole.exe
+c:\users\administrator\documents\visual studio 2015\Projects\StudentAppConsole\StudentAppConsole\obj\Debug\StudentAppConsole.pdb
+D:\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.exe.config
+D:\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.exe
+D:\StudentAppConsole\StudentAppConsole\bin\Debug\StudentAppConsole.pdb
+D:\StudentAppConsole\StudentAppConsole\obj\Debug\StudentAppConsole.csprojResolveAssemblyReference.cache
+D:\StudentAppConsole\StudentAppConsole\obj\Debug\StudentAppConsole.exe
+D:\StudentAppConsole\StudentAppConsole\obj\Debug\StudentAppConsole.pdb
